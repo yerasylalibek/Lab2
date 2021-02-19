@@ -1,4 +1,4 @@
-package kz.iitu.javaee;
+package kz.iitu.javaee.servlet;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

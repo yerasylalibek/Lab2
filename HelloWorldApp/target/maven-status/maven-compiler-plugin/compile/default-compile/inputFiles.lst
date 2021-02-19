@@ -1,4 +1,7 @@
-/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/HelloServlet.java
-/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/ConfigDemoServlet.java
-/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/LoginServlet.java
-/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/RegistrationServlet.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/filter/RequestLoggingFilter.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/servlet/LogoutServlet.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/servlet/LoginServlet.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/servlet/RegistrationServlet.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/filter/AuthenticationFilter.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/servlet/HelloServlet.java
+/Users/erasylalibek/Desktop/HelloWorldApp/src/main/java/kz/iitu/javaee/servlet/ConfigDemoServlet.java

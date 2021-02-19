@@ -1,1 +1,7 @@
-kz/iitu/javaee/LoginServlet.class
+kz/iitu/javaee/servlet/LogoutServlet.class
+kz/iitu/javaee/servlet/RegistrationServlet.class
+kz/iitu/javaee/servlet/ConfigDemoServlet.class
+kz/iitu/javaee/servlet/LoginServlet.class
+kz/iitu/javaee/filter/RequestLoggingFilter.class
+kz/iitu/javaee/servlet/HelloServlet.class
+kz/iitu/javaee/filter/AuthenticationFilter.class

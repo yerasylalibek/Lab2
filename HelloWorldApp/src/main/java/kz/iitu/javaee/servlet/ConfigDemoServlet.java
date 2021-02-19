@@ -1,14 +1,14 @@
-package kz.iitu.javaee;
+package kz.iitu.javaee.servlet;
 
 import java.io.IOException;
-import java.io.PrintWriter;  
-import java.util.Enumeration;  
-  
-import javax.servlet.ServletConfig;  
-import javax.servlet.ServletException;  
-import javax.servlet.http.HttpServlet;  
-import javax.servlet.http.HttpServletRequest;  
-import javax.servlet.http.HttpServletResponse;  
+import java.io.PrintWriter;
+import java.util.Enumeration;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 
 public class ConfigDemoServlet extends HttpServlet {
@@ -32,5 +32,5 @@ public class ConfigDemoServlet extends HttpServlet {
 
         out.close();
     }
-  
-} 
+
+}
